@@ -14,4 +14,4 @@ In the end, our design worked very well. Messages were displayed very clearly, a
 
 Below is a video of some of the messages that we were able to display with our design.
 
-[![Video demonstration of the LED Wand displaying the message "Hello"]()](https://www.youtube.com/watch?v=kxvFPX3jv1A&feature=youtu.be "LED Wand Demonstration")
+[![Video demonstration of the LED Wand displaying the message "Hello"](blob/master/Thumbnail.png)](https://www.youtube.com/watch?v=kxvFPX3jv1A&feature=youtu.be "LED Wand Demonstration")
